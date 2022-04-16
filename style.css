@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Padauk&display=swap');
+
+body {
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    
+}
+.main-header, nav {
+    font-family: 'Lobster', cursive;
+}
+p {
+    font-family: 'Padauk', sans-serif;
+    text-indent: 20px;
+}
+.main-header {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin-left:20px;
+    padding: 210px;
+    font-size:20px;
+}
+nav {
+    border: 2px solid black;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #71b7e6;
+    border-radius: 10px;
+    color: purple;
+}
+.s-header {
+    text-indent:40px;
+}
